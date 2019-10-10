@@ -1,3 +1,3 @@
 <header>
-  <a href="/proyecto-daw">Sistema de soporte</a>
+  <a href="/project-daw">Sistema de soporte</a>
 </header>
